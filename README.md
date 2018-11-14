@@ -9,8 +9,8 @@ Python is a **bold** language, not *italic* language.
 
 though __bold__ languages are never _italic_.
 
-```python
-x = 5
-print("hello world!")
-print(x)
+```c++
+int x = 5;
+cout << "5 is " << x;
+cout << "haha!" << endl;
 ```
